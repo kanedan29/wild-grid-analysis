@@ -1,6 +1,6 @@
 # Wild Grid Analysis: Perennial Cover in Cropland Watersheds
 
-Analysis supporting the [Madison Agriculture](https://madagriculture.org) wilding white paper. The goal is to identify US HUC12 watersheds that are predominantly agricultural yet have little perennial vegetation cover — the landscapes with the greatest opportunity for perennial cover adoption.
+Analysis supporting the [Mad Agriculture](https://madagriculture.org) wilding white paper. The goal is to identify US HUC12 watersheds that are predominantly agricultural yet have little perennial vegetation cover — the landscapes with the greatest opportunity for perennial cover adoption.
 
 ## What This Analysis Does
 
@@ -111,7 +111,7 @@ python quick_stats.py                   # prints summary statistics
 
 If you use this analysis, please cite:
 
-> Madison Agriculture. (2026). *Wild Grid Analysis: Perennial Cover in US Cropland Watersheds*. GitHub. https://github.com/kanedan29/wild-grid-analysis
+> Mad Agriculture. (2026). *Wild Grid Analysis: Perennial Cover in US Cropland Watersheds*. GitHub. https://github.com/kanedan29/wild-grid-analysis
 
 ## License
 
